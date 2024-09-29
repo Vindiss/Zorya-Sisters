@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Scenes\CreditsScene.cpp" />
+    <ClCompile Include="Scenes\DefaultScene.cpp" />
+    <ClCompile Include="Scenes\EndLevelScene.cpp" />
+    <ClCompile Include="Scenes\MainMenuScene.cpp" />
+    <ClCompile Include="Scenes\SelectCapacityScene.cpp" />
+    <ClCompile Include="Scenes\DeathScene.cpp" />
+    <ClCompile Include="Scenes\PauseScene.cpp" />
+    <ClCompile Include="Scenes\TransitionScene.cpp" />
+    <ClCompile Include="Scenes\MapScene.cpp" />
+    <ClCompile Include="Scenes\OptionsScene.cpp" />
+    <ClCompile Include="Scenes\IntroScene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes\CreditsScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes\DefaultScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes\EndLevelScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes\MainMenuScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes\SelectCapacityScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Scenes\CreditsScene.h" />
+    <ClInclude Include="Scenes\DefaultScene.h" />
+    <ClInclude Include="Scenes\EndLevelScene.h" />
+    <ClInclude Include="Scenes\OptionsScene.h" />
+    <ClInclude Include="Scenes\LaunchFunction.h" />
+    <ClInclude Include="Scenes\MainMenuScene.h" />
+    <ClInclude Include="Scenes\SelectCapacityScene.h" />
+    <ClInclude Include="Scenes\IntroScene.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgui.ini" />
+    <ClInclude Include="Scenes\CreditsScene.h" />
+    <ClInclude Include="Scenes\DeathScene.h" />
+    <ClInclude Include="Scenes\DefaultScene.h" />
+    <ClInclude Include="Scenes\EndLevelScene.h" />
+    <ClInclude Include="Scenes\LaunchFunction.h" />
+    <ClInclude Include="Scenes\MainMenuScene.h" />
+    <ClInclude Include="Scenes\PauseScene.h" />
+    <ClInclude Include="Scenes\SelectCapacityScene.h" />
+    <ClInclude Include="Scenes\TransitionScene.h" />
+    <ClInclude Include="Scenes\MapScene.h" />
+    <None Include="Scenes\LaunchFunction.inl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgui.ini" />
+    <None Include="Scenes\LaunchFunction.inl" />
+    <None Include="x64\Debug\Game.tlog\unsuccessfulbuild" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="x64\Debug\Game.Build.CppClean.log" />
+    <Text Include="x64\Debug\Game.vcxproj.FileListAbsolute.txt" />
+  </ItemGroup>
+</Project>

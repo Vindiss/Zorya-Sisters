@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\Capcity\Dash.cpp" />
+    <ClCompile Include="src\Capcity\Force.cpp" />
+    <ClCompile Include="src\Components\Button.cpp" />
+    <ClCompile Include="src\Capacity.cpp" />
+    <ClCompile Include="src\Components\Doll.cpp" />
+    <ClCompile Include="src\Components\Interactive.cpp" />
+    <ClCompile Include="src\Components\TextRenderer.cpp" />
+    <ClCompile Include="src\Components\Player.cpp" />
+    <ClCompile Include="src\Modules\ImGuiModule.cpp" />
+    <ClCompile Include="ImGui\imgui-SFML.cpp" />
+    <ClCompile Include="ImGui\imgui.cpp" />
+    <ClCompile Include="ImGui\imgui_demo.cpp" />
+    <ClCompile Include="ImGui\imgui_draw.cpp" />
+    <ClCompile Include="ImGui\imgui_tables.cpp" />
+    <ClCompile Include="ImGui\imgui_widgets.cpp" />
+    <ClCompile Include="src\Engine.cpp" />
+    <ClCompile Include="src\Modules\InputModule.cpp" />
+    <ClCompile Include="src\Modules\SceneModule.cpp" />
+    <ClCompile Include="src\Modules\TimeModule.cpp" />
+    <ClCompile Include="src\Modules\WindowModule.cpp" />
+    <ClCompile Include="src\ModuleManager.cpp" />
+    <ClCompile Include="src\Module.cpp" />
+    <ClCompile Include="src\Components\SpriteRenderer.cpp" />
+    <ClCompile Include="src\Components\ARendererComponent.cpp" />
+    <ClCompile Include="src\Components\RectangleShapeRenderer.cpp" />
+    <ClCompile Include="src\Scene.cpp" />
+    <ClCompile Include="src\Component.cpp" />
+    <ClCompile Include="src\Components\SquareCollider.cpp" />
+    <ClCompile Include="src\GameObject.cpp" />
+    <ClCompile Include="src\Maths\Vector2.cpp" />
+    <ClCompile Include="src\Capcity\Invincibilite.cpp" />
+    <ClCompile Include="src\Capcity\InversionGravite.cpp" />
+    <ClCompile Include="src\Capcity\DoubleJump.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Capacity\Dash.h" />
+    <ClInclude Include="include\Capacity\Force.h" />
+    <ClInclude Include="include\Components\Button.h" />
+    <ClInclude Include="include\Capacity.h" />
+    <ClInclude Include="include\Components\Doll.h" />
+    <ClInclude Include="include\Components\ObjectType.h" />
+    <ClInclude Include="include\Components\Player.h" />
+    <ClInclude Include="include\Components\Interactive.h" />
+    <ClInclude Include="include\Components\TextRenderer.h" />
+    <ClInclude Include="include\Modules\ImGuiModule.h" />
+    <ClInclude Include="include\Engine.h" />
+    <ClInclude Include="include\Components\ARendererComponent.h" />
+    <ClInclude Include="include\Components\RectangleShapeRenderer.h" />
+    <ClInclude Include="include\Components\SquareCollider.h" />
+    <ClInclude Include="include\Component.h" />
+    <ClInclude Include="include\GameObject.h" />
+    <ClInclude Include="include\Scene.h" />
+    <ClInclude Include="include\Maths\Vector2.h" />
+    <ClInclude Include="include\Components\SpriteRenderer.h" />
+    <ClInclude Include="include\Module.h" />
+    <ClInclude Include="include\ModuleManager.h" />
+    <ClInclude Include="include\Modules\TimeModule.h" />
+    <ClInclude Include="include\Modules\SceneModule.h" />
+    <ClInclude Include="include\Modules\WindowModule.h" />
+    <ClInclude Include="include\Modules\InputModule.h" />
+    <ClInclude Include="include\Capacity\Invincibilite.h" />
+    <ClInclude Include="include\Capacity\DoubleJump.h" />
+    <ClInclude Include="include\Capacity\InversionGravite.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="include\Maths\Vector2.inl" />
+  </ItemGroup>
+</Project>
