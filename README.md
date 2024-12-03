@@ -5,6 +5,10 @@
 Zorya Sisters est un platformer/puzzle 2D développé avec SFML. Incarnez les soeurs Zorya, des poupées russes souhaitant quitter la maison de leur propriétaire à tout prix. En utilisant leurs différents pouvoirs; surmontez les obstacles et les énigmes qui se dressent devant vous !
 Ce jeu est un de nos projet d'études, nous l'avons développé en trois semaines. Si nous avions prévu de le sortir sur Steam ou Itch.io, le plan aurait été de créer plusieurs mondes à la manière des jeux Mario : chaque pièce de la maison aurait représenté un monde contenant plusieurs niveaux à l'intérieur. Mais dû à un manque de temps, nous avons décidé de créé un seul niveau permettant d'introduire les différentes mécaniques.  
 
+![Capture d'écran 2024-12-03 105511](https://github.com/user-attachments/assets/35a8c966-8d53-4258-a33c-f9471181a2f2)
+![Capture d'écran 2024-12-03 105531](https://github.com/user-attachments/assets/a6a6071e-feaa-450e-9ec1-13e3011ae5af)
+![Capture d'écran 2024-12-03 105556](https://github.com/user-attachments/assets/0ee1cd29-54b5-43d3-8bad-4589e875c661)
+![Capture d'écran 2024-12-03 105829](https://github.com/user-attachments/assets/c0658abd-601f-4a2d-98ac-aa50fcd2ff49)
 
 # A faire pour lancer le jeu
 
